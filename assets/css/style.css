@@ -749,8 +749,8 @@ a:hover {
 }
 
 .hero .hero-subtitle {
-  font-size: 1.5rem;
-  font-weight: 600;
+  font-size: 1rem;
+  font-weight: 100;
 }
 
 @media (min-width: 768px) {
