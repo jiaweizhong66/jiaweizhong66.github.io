@@ -1,13 +1,4 @@
-/**
-* Template Name: DevFolio - v4.1.0
-* Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 
-/*--------------------------------------------------------------
-# General
---------------------------------------------------------------*/
 body {
   background-color: #f5f5f5;
   color: #4e4e4e;
@@ -1184,7 +1175,7 @@ a:hover {
   border: 0;
   padding: 10px 24px;
   color: #fff;
-  transition: 0.4s;
+  transition: 0.5s;
 }
 
 .php-email-form button[type="submit"]:hover {
