@@ -85,7 +85,7 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #0078ff;
+  background-color: #6c98ca;
 }
 
 .overlay-mf {
@@ -905,6 +905,10 @@ a:hover {
   margin-bottom: 0;
 }
 
+.count-num {
+  font-size: 2rem;
+}
+
 /*--------------------------------------------------------------
 # Portfolio
 --------------------------------------------------------------*/
@@ -1421,7 +1425,7 @@ footer {
   text-align: center;
   color: #fff;
   padding: 25px 0;
-  background: #0062d3;
+  background: #000000;
 }
 
 footer .copyright {
