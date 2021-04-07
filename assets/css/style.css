@@ -1425,7 +1425,7 @@ footer {
   text-align: center;
   color: #fff;
   padding: 25px 0;
-  background: #bd5050;
+  background: #000000;
 }
 
 footer .copyright {
@@ -1437,5 +1437,5 @@ footer .credits {
 }
 
 footer .credits a {
-  color: #fff;
+  color: #000000;
 }
